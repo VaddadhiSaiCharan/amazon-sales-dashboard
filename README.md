@@ -1,4 +1,4 @@
-# Amazon Product Sales Analysis using Power BI
+ Amazon Product Sales Analysis using Power BI
 
 **Overview**
 An interactive Power BI dashboard that analyzes Amazon product sales, reviews, and performance metrics.
